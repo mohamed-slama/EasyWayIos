@@ -1,0 +1,106 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cryptor",
+        "repositoryURL": "https://github.com/Kitura/BlueCryptor.git",
+        "state": {
+          "branch": null,
+          "revision": "cec97c24b111351e70e448972a7d3fe68a756d6d",
+          "version": "2.0.2"
+        }
+      },
+      {
+        "package": "CryptorECC",
+        "repositoryURL": "https://github.com/Kitura/BlueECC.git",
+        "state": {
+          "branch": null,
+          "revision": "1485268a54f8135435a825a855e733f026fa6cc8",
+          "version": "1.2.201"
+        }
+      },
+      {
+        "package": "CryptorRSA",
+        "repositoryURL": "https://github.com/Kitura/BlueRSA.git",
+        "state": {
+          "branch": null,
+          "revision": "440f78db26d8bb073f29590f1c7bd31004da09ae",
+          "version": "1.0.201"
+        }
+      },
+      {
+        "package": "CodeScanner",
+        "repositoryURL": "https://github.com/twostraws/CodeScanner.git",
+        "state": {
+          "branch": "main",
+          "revision": "a147b225529e2c4183f89c773d797bc0edd1fdd8",
+          "version": null
+        }
+      },
+      {
+        "package": "iGraphics",
+        "repositoryURL": "https://github.com/benjaminsage/iGraphics.git",
+        "state": {
+          "branch": null,
+          "revision": "2b0714f7fe333621365854ebdce44ea2db866405",
+          "version": "0.0.7"
+        }
+      },
+      {
+        "package": "iPaymentButton",
+        "repositoryURL": "https://github.com/benjaminsage/iPaymentButton",
+        "state": {
+          "branch": "main",
+          "revision": "33348c69e980a48e93d1468a010dc4b2c6721b0b",
+          "version": null
+        }
+      },
+      {
+        "package": "KituraContracts",
+        "repositoryURL": "https://github.com/Kitura/KituraContracts.git",
+        "state": {
+          "branch": null,
+          "revision": "6edf7ac3dd2b3a2c61284778d430bbad7d8a6f23",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "LoggerAPI",
+        "repositoryURL": "https://github.com/Kitura/LoggerAPI.git",
+        "state": {
+          "branch": null,
+          "revision": "4e6b45e850ffa275e8e26a24c6454fd709d5b6ac",
+          "version": "2.0.0"
+        }
+      },
+      {
+        "package": "MailCore2",
+        "repositoryURL": "https://github.com/MailCore/mailcore2.git",
+        "state": {
+          "branch": "master",
+          "revision": "7417b2e8dd7e2c028aadb72056e4d1428c0627c4",
+          "version": null
+        }
+      },
+      {
+        "package": "SwiftJWT",
+        "repositoryURL": "https://github.com/Kitura/Swift-JWT",
+        "state": {
+          "branch": "master",
+          "revision": "f68ec28fbd90a651597e9e825ea7f315f8d52a1f",
+          "version": null
+        }
+      },
+      {
+        "package": "swift-log",
+        "repositoryURL": "https://github.com/apple/swift-log.git",
+        "state": {
+          "branch": null,
+          "revision": "32e8d724467f8fe623624570367e3d50c5638e46",
+          "version": "1.5.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
